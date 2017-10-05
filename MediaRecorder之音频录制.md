@@ -22,7 +22,7 @@
 ##### 例如：MediaPlayer.create(this, R.raw.test);
 #### b. 存储在SD卡或其他文件路径下的媒体文件
 ##### 例如：mp.setDataSource("/sdcard/test.mp3");
-####c. 网络上的媒体文件
+#### c. 网络上的媒体文件
 ##### 例如：mp.setDataSource("http://www.citynorth.cn/music/confucius.mp3");
 #### MediaPlayer的setDataSource一共四个方法：
 * setDataSource (String path)
